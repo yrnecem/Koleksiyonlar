@@ -1,0 +1,15 @@
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\bin\Debug\net6.0\koleksiyonlar1.exe
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\bin\Debug\net6.0\koleksiyonlar1.deps.json
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\bin\Debug\net6.0\koleksiyonlar1.runtimeconfig.json
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\bin\Debug\net6.0\koleksiyonlar1.dll
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\bin\Debug\net6.0\ref\koleksiyonlar1.dll
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\bin\Debug\net6.0\koleksiyonlar1.pdb
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\koleksiyonlar1.csproj.AssemblyReference.cache
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\koleksiyonlar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\koleksiyonlar1.AssemblyInfoInputs.cache
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\koleksiyonlar1.AssemblyInfo.cs
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\koleksiyonlar1.csproj.CoreCompileInputs.cache
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\koleksiyonlar1.dll
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\ref\koleksiyonlar1.dll
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\koleksiyonlar1.pdb
+C:\Users\ecem1\OneDrive\Masaüstü\CSPratik\koleksiyonlar1\obj\Debug\net6.0\koleksiyonlar1.genruntimeconfig.cache
